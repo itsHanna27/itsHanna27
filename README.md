@@ -13,7 +13,7 @@ Check out my projects here: [Portfolio Link](https://portfolio-mztz.vercel.app/)
 ## Tech Stack
 
 ### Frontend
-- HTML, CSS, JavaScript  
+- HTML, CSS, JavaScript, Typescript  
 - React, React Native  
 - Tailwind CSS  
 
