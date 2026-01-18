@@ -4,7 +4,9 @@
 
 # ✧˖° Welcome to Hanna's GitHub °˖✧
 
-<code>&lt;/&gt;</code>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C67DFF&center=true&vCenter=true&width=435&lines=Future+Software+Developer;Code+%2B+Creativity;Building+Digital+Experiences" alt="Typing SVG" />
+
+<br>
 
 <br>
 
@@ -15,8 +17,6 @@
 </div>
 
 <br>
-
-<div align="center">
 
 ## ✧˖° About me °˖✧
 
@@ -39,8 +39,6 @@
 <br>
 
 <br clear="right"/>
-
-</div>
 
 <br>
 
@@ -78,20 +76,33 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsHanna27&bg_color=00000000&color=C67DFF&line=7B2BBE&point=873EC4&area=true&hide_border=true&area_color=3C0A6D" width="100%" alt="Activity Graph"/>
 
-</div>
-
 <br>
-
-<div align="center">
 
 ## ✧˖° Fun Facts °˖✧
 
-⋆｡˚ Favorite color: **lilac** ◇  
-⋆｡˚ Design philosophy: **Calm, intuitive interfaces** ✧  
-⋆｡˚ Languages spoken: **English, Italian & Twi** ◈  
-⋆｡˚ Current focus: **Blending aesthetics with functionality** ✦
+<img align="right" src="https://i.ibb.co/Xft9n22d/sleep.jpg" width="300" style="border: none; margin-left: 20px; border-radius: 15px;"/>
+
+<div align="left">
+
+⋆｡˚ **Favorite color:** Lilac ◇  
+⋆｡˚ **Design philosophy:** Calm, intuitive interfaces ✧  
+⋆｡˚ **Languages spoken:** English, Italian & Twi ◈  
+⋆｡˚ **Creative hobbies:** Drawing, 3D modelling & animating ✦  
+⋆｡˚ **Tools I love:** Blender, Figma, VS Code ⟡  
+⋆｡˚ **When I'm not coding:** Gaming, reading & watching K-dramas ◇  
+⋆｡˚ **Current vibe:** Blending aesthetics with functionality ✧  
+⋆｡˚ **Always learning:** New design trends & creative coding ◈
+
+![Snake animation](https://raw.githubusercontent.com/itsHanna27/itsHanna27/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+<br>
+<br>
+<br>
+<br>
+
+<br clear="right"/>
 
 <br>
 
