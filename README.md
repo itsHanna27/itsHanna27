@@ -2,7 +2,7 @@
 
 <img src="https://i.ibb.co/SX0SvKDG/banner1.jpg" width="100%" style="max-height: 250px; object-fit: cover;"/>
 
-<h1>Welcome to Hanna's GitHub</h1>
+<h1>Welcome to Hanna's GitHub yep</h1>
 
 <code>&lt;/&gt;</code>
 
