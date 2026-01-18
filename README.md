@@ -32,7 +32,14 @@
 ◇ Building: Functional and aesthetic digital experiences  
 ◇ Exploring: React, React Native, Firebase & more  
 ◇ Favorite color: Lilac  
+
+<br>
+<br>
+<br>
+
 <br clear="right"/>
+
+<br>
 
 ## ✦ Technologies
 
