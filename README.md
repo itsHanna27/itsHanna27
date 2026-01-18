@@ -93,7 +93,6 @@
 ⋆｡˚ **Current vibe:** Blending aesthetics with functionality ✧  
 ⋆｡˚ **Always learning:** New design trends & creative coding ◈
 
-![Snake animation](https://raw.githubusercontent.com/itsHanna27/itsHanna27/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
