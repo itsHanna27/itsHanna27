@@ -2,7 +2,7 @@
 
 <img src="https://i.ibb.co/SX0SvKDG/banner1.jpg" width="100%" style="max-height: 250px; object-fit: cover;"/>
 
-<h1>Welcome to Hanna's GitHub yep</h1>
+<h1>Welcome to Hanna's GitHub</h1>
 
 <code>&lt;/&gt;</code>
 
@@ -65,11 +65,25 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsHanna27&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B6FA8&icon_color=8B6FA8&text_color=8B6FA8" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=itsHanna27&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B6FA8&icon_color=8B6FA8&text_color=8B6FA8" alt="GitHub Stats" width="495"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsHanna27&theme=radical&hide_border=true&background=0D1117&stroke=8B6FA8&ring=8B6FA8&fire=DDA0DD&currStreakLabel=8B6FA8" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsHanna27&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B6FA8&text_color=8B6FA8" alt="Top Languages" width="400"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsHanna27&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B6FA8&text_color=8B6FA8" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=itsHanna27&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4&title_color=8B6FA8&text_color=8B6FA8&icon_color=8B6FA8" alt="GitHub Trophies" width="700"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsHanna27&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B6FA8&line=8B6FA8&point=DDA0DD" alt="Contribution Graph" width="100%"/>
 
 </div>
 
