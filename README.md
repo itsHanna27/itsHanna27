@@ -65,17 +65,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsHanna27&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B6FA8&icon_color=8B6FA8&text_color=8B6FA8" alt="GitHub Stats" width="495"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsHanna27&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B6FA8&icon_color=8B6FA8&text_color=8B6FA8)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsHanna27&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B6FA8&text_color=8B6FA8" alt="Top Languages" width="400"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=itsHanna27&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4&title_color=8B6FA8&text_color=8B6FA8&icon_color=8B6FA8" alt="GitHub Trophies" width="700"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsHanna27&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B6FA8&text_color=8B6FA8)
 
 </div>
 
@@ -83,7 +75,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsHanna27&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B6FA8&line=8B6FA8&point=DDA0DD" alt="Contribution Graph" width="100%"/>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itsHanna27&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4)
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsHanna27&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B6FA8&line=8B6FA8&point=DDA0DD)
 
 </div>
 
