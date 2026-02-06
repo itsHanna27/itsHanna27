@@ -122,3 +122,7 @@
 *✦ Code with creativity, design with purpose ✦*
 
 </div>
+
+© README design by **itsHanna27** - inspiration welcome, direct copying requires credit and a link back.
+
+
