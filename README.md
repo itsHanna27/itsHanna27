@@ -45,18 +45,18 @@
 <div align="center">
 
 ## ⋆｡˚ Technologies ˚｡⋆
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-10002B?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-240046?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-3C096C?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-5A189A?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-7B2CBF?style=for-the-badge&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-9D4EDD?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-C77DFF?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-E0AAFF?style=for-the-badge&logo=firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-E6BBFF?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-EBC9FF?style=for-the-badge&logo=git&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-EBC9FF?style=for-the-badge&logo=expo&logoColor=white)
+![Java](https://img.shields.io/badge/Java-3C096C?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-5A189A?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-7B2CBF?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-9D4EDD?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-C77DFF?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-E0AAFF?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-E6BBFF?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-EBC9FF?style=for-the-badge&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-F2D9FF?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 </div>
 
