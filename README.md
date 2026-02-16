@@ -63,11 +63,8 @@
 <br>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=itsHanna27&show_icons=true&hide_border=true&bg_color=00000000&title_color=C67DFF&icon_color=873EC4&text_color=C67DFF&rank_icon=github&include_all_commits=true" width="49%" alt="Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsHanna27&layout=compact&hide_border=true&bg_color=00000000&title_color=C67DFF&text_color=C67DFF&langs_count=8" width="40%" alt="Languages"/>
-
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=itsHanna27&show_icons=true&hide_border=true&bg_color=00000000&title_color=C67DFF&icon_color=873EC4&text_color=C67DFF&rank_icon=github&include_all_commits=true" width="49%" alt="Stats"/>
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=itsHanna27&layout=compact&hide_border=true&bg_color=00000000&title_color=C67DFF&text_color=C67DFF&langs_count=8" width="40%" alt="Languages"/>
 </div>
 
 <br>
