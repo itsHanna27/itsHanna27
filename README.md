@@ -86,7 +86,7 @@
 ⋆｡˚ **Languages spoken:** English, Italian & Twi ◈  
 ⋆｡˚ **Creative hobbies:** Drawing, 3D modelling & animating ✦  
 ⋆｡˚ **Tools I love:** Blender, Figma, VS Code ⟡  
-⋆｡˚ **When I'm not coding:** Gaming, reading & watching K-dramas ◇  
+⋆｡˚ **When I'm not coding:** Gaming, drawing, reading & watching K-dramas ◇  
 ⋆｡˚ **Current vibe:** Blending aesthetics with functionality ✧  
 ⋆｡˚ **Always learning:** New design trends & creative coding ◈
 
@@ -119,7 +119,5 @@
 *✦ Code with creativity, design with purpose ✦*
 
 </div>
-
-© README design by **itsHanna27** - inspiration welcome, direct copying requires credit and a link back.
 
 
